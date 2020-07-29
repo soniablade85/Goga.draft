@@ -1,0 +1,47 @@
+
+navbar{
+    border: 1px;
+    border-color: white;
+}
+
+#header-image-menu{ 
+    top: 10px; 
+    position: relative; 
+} 
+
+
+#header-image-menu img{ 
+    width: 100%; 
+    height: 700px;
+    margin: none; 
+    padding: none; 
+} 
+
+#image-text{ 
+    position: absolute; 
+    top: 60%; 
+    left: 60%; 
+    font-family: 'Roboto'; 
+    color: white; 
+    transform: translate(-30%, -30%); 
+    text-align: center; 
+} 
+
+team-player {
+    position: center;
+}
+
+.icon-info {
+    color: #6495ED;
+}
+
+.icon-success {
+    color: #6495ED;
+}
+
+.icon-danger {
+    color: #6495ED;
+}
+.icon-danger {
+    color: #6DBBD4;
+}
